@@ -33,7 +33,7 @@ Use UFM tokens in your Umbraco content to display member information:
 
 ### Example
 
-
+<img src=".github/assets/UFMMemberLookup.gif" alt="demo of how UFM Member Lookup works" />
 
 ## Supported Member Fields
 
