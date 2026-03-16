@@ -1,4 +1,6 @@
-# OC UFM Member Lookup
+<img src="./ocUFMMemberLookupLogo.png" alt="OC UFM Member Lookup" width="50">
+
+# OC.UFMMemberLookup
 
 An Umbraco 17 package that provides seamless member data lookup functionality through UFM (Umbraco Flavored Markdown) tokens. Display member information dynamically in your content using simple, intuitive syntax.
 
