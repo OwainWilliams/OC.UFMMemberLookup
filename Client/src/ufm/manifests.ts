@@ -7,7 +7,7 @@ export const manifests: Array<ManifestUfmComponent> = [
     name: 'Member Lookup UFM Component',
     api: () => import('./member-lookup.ufm-component.js'),
     meta: {
-      alias: 'mlu',
+      alias: 'mnl',
     },
   },
 ];
