@@ -1,7 +1,7 @@
 {
   "id": "OC.UFMMemberLookup",
   "name": "OC.UFMMemberLookup",
-  "version": "1.0.0-alpha",
+  "version": "17.0.0",
   "allowTelemetry": true,
   "extensions": [
     {

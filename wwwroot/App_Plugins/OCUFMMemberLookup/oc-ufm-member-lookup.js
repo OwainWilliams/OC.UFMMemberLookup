@@ -12,14 +12,14 @@ const o = [
     name: "Member Lookup UFM Component",
     api: () => import("./member-lookup.ufm-component-Dmg1CxX_.js"),
     meta: {
-      alias: "mlu"
+      alias: "mnl"
     }
   }
-], t = [
+], n = [
   ...o,
   ...e
 ];
 export {
-  t as manifests
+  n as manifests
 };
 //# sourceMappingURL=oc-ufm-member-lookup.js.map
